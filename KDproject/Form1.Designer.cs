@@ -2,6 +2,7 @@
 {
     partial class Form1
     {
+        /// Hello World! By Linus.
         /// <summary>
         /// 設計工具所需的變數。
         /// </summary>
